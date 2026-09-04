@@ -7,7 +7,7 @@ about:
   head: 247f43d
   archived: false
   latestVersion: v1.0.3
-  collectedAt: 2026-09-04T19:22:30Z
+  collectedAt: 2026-09-04T21:12:01Z
 timeline:
   created: 2013-09-15
   lastCommit: 2026-06-26
@@ -82,6 +82,44 @@ total:
   openIssue: 31
   commit: 311
 ---
+path: /home/runner/.x-repo/github.com/tobixen/calendar-cli
+collectedAt: 2026-09-04T21:12:02Z
+loc:
+  Python:
+    code: 1041
+    comments: 111
+    blanks: 135
+    files: 9
+  Sh:
+    code: 238
+    comments: 30
+    blanks: 60
+    files: 2
+  Toml:
+    code: 71
+    comments: 12
+    blanks: 15
+    files: 2
+  Makefile:
+    code: 38
+    comments: 0
+    blanks: 8
+    files: 1
+  Markdown:
+    code: 0
+    comments: 486
+    blanks: 138
+    files: 4
+  Text:
+    code: 0
+    comments: 553
+    blanks: 121
+    files: 1
+total:
+  code: 1422
+  comments: 1192
+  blanks: 477
+  files: 19
 ---
 date: "2026-08-24"
 repo:
