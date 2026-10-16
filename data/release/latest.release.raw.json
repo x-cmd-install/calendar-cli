@@ -1,8 +1,8 @@
 {
-  "url": "https://api.github.com/repos/pycalendar/calendar-cli/releases/345496541",
-  "assets_url": "https://api.github.com/repos/pycalendar/calendar-cli/releases/345496541/assets",
-  "upload_url": "https://uploads.github.com/repos/pycalendar/calendar-cli/releases/345496541/assets{?name,label}",
-  "html_url": "https://github.com/pycalendar/calendar-cli/releases/tag/v1.0.3",
+  "url": "https://api.github.com/repos/PyCalendar/calendar-cli/releases/345496541",
+  "assets_url": "https://api.github.com/repos/PyCalendar/calendar-cli/releases/345496541/assets",
+  "upload_url": "https://uploads.github.com/repos/PyCalendar/calendar-cli/releases/345496541/assets{?name,label}",
+  "html_url": "https://github.com/PyCalendar/calendar-cli/releases/tag/v1.0.3",
   "id": 345496541,
   "author": {
     "login": "tobixen",
@@ -38,7 +38,7 @@
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/pycalendar/calendar-cli/tarball/v1.0.3",
-  "zipball_url": "https://api.github.com/repos/pycalendar/calendar-cli/zipball/v1.0.3",
+  "tarball_url": "https://api.github.com/repos/PyCalendar/calendar-cli/tarball/v1.0.3",
+  "zipball_url": "https://api.github.com/repos/PyCalendar/calendar-cli/zipball/v1.0.3",
   "body": "Quite a bit of cleanup has been done, and I've added some of the scaffolding that I use for other projects."
 }
