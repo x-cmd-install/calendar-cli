@@ -99,6 +99,10 @@
   summary: Simple command-line CalDav client
   maintainers:
     - nix@dotlambda.de
+    - fedi.jamoussi@protonmail.ch
+    - ethan@ethancedwards.com
+    - phanirithvij2000@gmail.com
+    - prc.zhao@outlook.com
   licenses:
     - GPL-3.0-or-later
 - repo: pypi
